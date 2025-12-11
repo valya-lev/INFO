@@ -154,6 +154,30 @@
 Представь, что нужно добавить ещё один вариант: если яблоки не красные, ты купишь апельсины.  
 <img width="701" height="435" alt="image" src="https://github.com/user-attachments/assets/dce70652-726e-4e74-9142-de98d95b3ef4" />  
 
+Чтобы описать это в коде, понадобится оператор ```else``` (англ. «иначе»). Если условие ложно — ```false```, выполнится код внутри блока ```else```:  
+<img width="495" height="156" alt="image" src="https://github.com/user-attachments/assets/808eb9c2-c9ca-4ae2-a8e7-384188288307" />  
+
+Так будет выглядеть код с ```if-else```:  
+<img width="354" height="177" alt="image" src="https://github.com/user-attachments/assets/c29dfea2-7eba-4137-94f3-6641364aa513" />  
+Если яблоки не красные, в консоль выведется ```"Купить апельсины"```. Строка ```"Пойти домой"``` напечатается в любом случае.  
+
+#### Цепочка операторов if-else if  
+Чтобы добавить в код несколько условий, можно использовать цепочку операторов ```if-else if```.  
+Представь, что программа должна вывести на экран сообщение в зависимости от того, в какой стране снят фильм:  
+- СССР — ```"Фильм вышел в СССР."```;
+- США — ```"The movie was released in the USA."```;
+- Италия — ```"Il film e stato rilasciato in Italia."```;
+- любая другая страна — ```"Страна не определена."```.
+
+Чтобы записать все условия, понадобится цепочка операторов ```if-else if```.  
+<img width="721" height="475" alt="image" src="https://github.com/user-attachments/assets/e39865e9-33da-4524-8560-50a2a6e903e4" />  
+
+<img width="720" height="503" alt="image" src="https://github.com/user-attachments/assets/421ff888-0370-4cb3-b20e-48c8cb40d7b0" />  
+
+
+
+
+
 
 
 
