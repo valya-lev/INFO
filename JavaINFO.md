@@ -125,5 +125,19 @@
 
 <img width="791" height="431" alt="image" src="https://github.com/user-attachments/assets/d994f028-0f35-4481-b13b-981c0a42700f" />  
 
+### Условный оператор if  
+В коде можно записать условие: в зависимости от значения — ```true``` или ```false``` — оно будет определять, какие команды выполнятся.  
+<img width="693" height="587" alt="image" src="https://github.com/user-attachments/assets/c2fe5fd0-d27f-41f6-a07e-8ef723c71b01" />  
+
+Чтобы задать такое условие в коде, пользуются оператором ```if``` (англ. «если»):  
+<img width="439" height="102" alt="image" src="https://github.com/user-attachments/assets/84bc5e9f-a83c-47a9-bb3e-4a2f2b727734" />  
+
+Оператор ```if``` можно прочитать так: «```если``` истинно ```условие```, ```выполнить код```».
+На примере с яблоками конструкция будет выглядеть так:  
+<img width="193" height="96" alt="image" src="https://github.com/user-attachments/assets/2c30f56c-a0e8-420a-9ee6-be280d255eac" />  
+
+
+
+
 
 
