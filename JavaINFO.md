@@ -108,6 +108,22 @@
 Название переменной также может начинаться с глагола ```has``` (англ. «имеет»). Например, ```hasAccess``` — имеет ли пользователь доступ к чему-либо.  
 Это не жёсткие правила, но обычно переменные называют по ним. Так проще понимать код.  
 
+### Операторы сравнения 
+Можно проверить, равны ли числа друг другу: пригодится оператор сравнения ```==```. Это два символа «равно» подряд.  
+Оператор возвращает значение ```true```, если числа равны, а ```false``` — если не равны:  
+<img width="537" height="66" alt="image" src="https://github.com/user-attachments/assets/6629ce1b-441a-4099-ab2a-0943d307f588" />  
+
+Можно и наоборот — проверить числа на неравенство. Нужен оператор ```!=```. Он возвращает ```true```, если значения не равны, а ```false``` — если равны:  
+<img width="688" height="54" alt="image" src="https://github.com/user-attachments/assets/3a56d94a-baf2-4f8c-a247-92d55197a6b8" />  
+
+Операторы сравнения «больше или равно» ```>=``` и «меньше или равно» ```<=```:  
+<img width="679" height="61" alt="image" src="https://github.com/user-attachments/assets/1ac720f1-73d8-46e4-b6e4-1fbf18ffed28" />  
+Можно сравнивать не только числа, но и строки:  
+<img width="530" height="55" alt="image" src="https://github.com/user-attachments/assets/afb73fae-09a7-4dd2-9cd4-533babe8189f" />  
+Значение строки при этом может храниться в переменной:  
+<img width="696" height="140" alt="image" src="https://github.com/user-attachments/assets/05d56004-a0f8-40c0-bbb1-b2802a61c2b4" />  
+
+<img width="791" height="431" alt="image" src="https://github.com/user-attachments/assets/d994f028-0f35-4481-b13b-981c0a42700f" />  
 
 
 
