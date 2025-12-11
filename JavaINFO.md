@@ -174,7 +174,9 @@
 
 <img width="720" height="503" alt="image" src="https://github.com/user-attachments/assets/421ff888-0370-4cb3-b20e-48c8cb40d7b0" />  
 
-
+## Вложенность условных операторов  
+Ты уже знаешь, как описать в коде условие с вариантами действий: например, купить красные яблоки, а если их нет — апельсины. Одного оператора ```if-else``` не всегда хватает: иногда нужно добавить ещё больше условий.
+<img width="727" height="722" alt="image" src="https://github.com/user-attachments/assets/8ab75f12-049f-4d66-b537-01957f3a26c5" />  
 
 
 
