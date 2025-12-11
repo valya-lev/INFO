@@ -56,5 +56,11 @@
 
 <img width="721" height="397" alt="image" src="https://github.com/user-attachments/assets/7550dcc7-e713-47f3-9685-4fceed180689" />
 
+Чтобы метод выполнил действие, его нужно **вызвать**: написать имя метода и указать в скобках конкретное значение — аргумент.
+<img width="686" height="59" alt="image" src="https://github.com/user-attachments/assets/b2aba969-5ff6-4b65-a097-6286248e9c76" />
+<img width="672" height="261" alt="image" src="https://github.com/user-attachments/assets/d089f0dd-3ed8-4fca-85f8-7e364e241691" />
+
+
+
 
 
