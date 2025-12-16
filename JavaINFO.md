@@ -255,6 +255,18 @@
 
 <img width="836" height="59" alt="image" src="https://github.com/user-attachments/assets/3d34449b-c42e-47c7-b424-7eff97e0447a" />  
 Это кусочек кода, который играет роль финансовых возможностей Мефодия. Деньги будут суммироваться в переменную ```moneyTotal``` — столько уже отдано.  
+Теперь про сам цикл: он работает, пока долг не выплачен — ```while (moneyTotal < credit)```.  
+<img width="1164" height="133" alt="image" src="https://github.com/user-attachments/assets/493a38a1-8d84-4d00-85b8-786a79e1f815" />  
+И осталась последняя деталь: нужно посчитать, за сколько месяцев Мефодий выплатит долг. Каждую итерацию прибавляем к переменной ```monthCount``` единицу:  
+<img width="450" height="141" alt="image" src="https://github.com/user-attachments/assets/50051ab0-4a3d-40a0-9f64-d4d11450d074" />  
+Полностью код выглядит так:  
+<img width="1136" height="429" alt="image" src="https://github.com/user-attachments/assets/be723560-c6bd-49a5-af73-5884797b0a39" />  
+
+
+
+
+
+
 
 
 
